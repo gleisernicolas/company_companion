@@ -81,4 +81,4 @@ AllCops:
    - 'spec/spec_helper.rb'
    - 'config.ru'
    - 'Rakefile'
-  - 'Gemfile'
+   - 'Gemfile'
