@@ -70,7 +70,7 @@ Metrics/BlockLength:
     - config/environments/development.rb
 
 AllCops:
- TargetRubyVersion: 3.0
+ TargetRubyVersion: 3.0.2
  Exclude:
    - 'bin/**/*'
    - 'vendor/**/*'
